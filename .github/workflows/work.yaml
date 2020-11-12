@@ -13,4 +13,4 @@ jobs:
         MIDDLE_NAME: The
         LAST_NAME: Octocat
       run: |
-        curl http://141.164.46.127:8081/gcf
+        curl http://141.164.46.127:8082/gcf
